@@ -42,7 +42,7 @@ public class StockProblem {
         }
 
         System.out.println("My profit:"+profit);
-
+        System.out.println("My profit is:"+profit);
     }
 
 }
